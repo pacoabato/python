@@ -1,0 +1,5 @@
+{
+	"sharedPercentage": 0.8,
+	"filterId": 123456,
+	"team": ["user1", "user2", "user3"]
+}
