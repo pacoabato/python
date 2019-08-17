@@ -1,5 +1,9 @@
+# This script allows to change the creation_time metadata of a video file
+
 # Install http://ffmpeg.org/ and make accesible its bin directory (like using environment variables)
 # Install: pip install ffmpeg-python
+
+
 
 ''' author: Francisco Abato Helguera'''
 
